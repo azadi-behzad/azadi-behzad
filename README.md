@@ -36,6 +36,7 @@
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/Pytest-030903.svg?style=plasic&logo=pytest">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/SQL-030903.svg?style=flat&logo=SQL&logoColor=blue">
+        <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/gRPC-030903.svg?style=plasic&logo=gRPC&logoColor=green">
     <br>
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
