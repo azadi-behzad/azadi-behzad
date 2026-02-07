@@ -34,7 +34,7 @@
     <h4>Backend Skills</h4>
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
-        <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=pytest">
+        <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/Pytest-030903.svg?style=plasic&logo=pytest">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/SQL-030903.svg?style=flat&logo=SQL&logoColor=blue">
     <br>
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
