@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=behzad-azadi2693)
 
-[![behzad-azadi2693's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behzad-azadi2693&theme=blueberry)](https://github.com/behzad-azadi2693)
+[![behzad-azadi2693's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azadi-behzad&theme=blueberry)](https://github.com/azadi-behzad)
 
 <h3>find me here</h3>
 <div>
