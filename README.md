@@ -92,6 +92,7 @@
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/LPIC-030903.svg?style=plasic&logo=LPIC">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/SonarQube-030903.svg?style=plasic&logo=SonarQube">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/k6-030903.svg?style=plasic&logo=k6">
+        <br>
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/AI-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/ML-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/DL-030903.svg?style=plasic&logo=ai&logoColor=green">
