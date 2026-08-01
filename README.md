@@ -22,7 +22,7 @@
         <a href='https://wa.me/+989032627632'>
             <img alt="Discord" style="height:20px;" src="https://img.shields.io/badge/WHATSAPP-3cab37.svg?style=for-the-badge&logo=whatsapp&logoColor=orange">
         </a>
-        <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/behzad%20azadi.pdf"> 
+        <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/CV.pdf"> 
             <img  style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
         </a>
     </div>
