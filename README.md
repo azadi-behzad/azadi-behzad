@@ -97,5 +97,7 @@
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/DL-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/ANNs-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/NLP-030903.svg?style=plasic&logo=ai&logoColor=green">
+        <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/Prompt-Engineerin-030903.svg?style=plasic&logo=ai&logoColor=green">
+        <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/Agent-application-030903.svg?style=plasic&logo=ai&logoColor=green">
     </div>
 </div>
